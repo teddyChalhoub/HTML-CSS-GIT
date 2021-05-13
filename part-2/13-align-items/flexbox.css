@@ -9,23 +9,23 @@
 .countries--first {
   flex-direction: row;
   flex-wrap: wrap;
-  align-content: center;
+  align-items: center;
 }
 .countries--second {
   flex-direction: row-reverse;
   flex-wrap: wrap;
-  align-content: baseline;
-  align-content: flex-end;
+  align-items: baseline;
+  align-items: flex-end;
 }
 
 .countries--third {
   flex-direction: column;
   flex-wrap: wrap-reverse;
-  align-content: flex-start;
+  align-items: flex-start;
 }
 
 .countries--fourth {
   flex-direction: column-reverse;
   flex-wrap: wrap;
-  align-content: center;
+  align-items: center;
 }
