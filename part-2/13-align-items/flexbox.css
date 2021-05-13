@@ -14,8 +14,8 @@
 .countries--second {
   flex-direction: row-reverse;
   flex-wrap: wrap;
+  align-content: baseline;
   align-content: flex-end;
-  padding-left: 60px;
 }
 
 .countries--third {
